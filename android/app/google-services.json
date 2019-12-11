@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482158670065",
+    "firebase_url": "https://buzzraker.firebaseio.com",
+    "project_id": "buzzraker",
+    "storage_bucket": "buzzraker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482158670065:android:8c0951e7bcf121ea9f7950",
+        "android_client_info": {
+          "package_name": "com.sakvatsa.buzzraker1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482158670065-6e91ncvbvtfv0cuisorju44fp00f2bu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFns2qDUnstJxVFY-phf1ODjxL6q896D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482158670065-6e91ncvbvtfv0cuisorju44fp00f2bu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
