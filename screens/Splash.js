@@ -14,9 +14,9 @@ import splash from '../components/images/splash.png'
 export default class Splash extends React.Component {
   // Render any loading content that you like here
 
-//   componentDidMount(){
-//     setTimeout(()=>{this.props.navigation.navigate('AuthLoading')}, 3000);
-//   }
+  componentDidMount(){
+    setTimeout(()=>{this}, 3000);
+  }
   render() {
     return (
         <>
