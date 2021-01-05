@@ -27,7 +27,7 @@
     "apollo-link-http": "^1.5.16",
     "apollo-link-retry": "^2.2.15",
     "apollo-link-state": "^0.4.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bugsnag-react-native": "^2.23.2",
     "country-state-city": "^1.0.0",
     "graphql": "^14.5.8",
